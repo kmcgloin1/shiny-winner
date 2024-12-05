@@ -1,0 +1,665 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.0774498,34.07754522 ]
+    },
+    "properties": {
+    "id":1,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.0657768,34.06076588 ]
+    },
+    "properties": {
+    "id":2,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.0987358,34.01140401 ]
+    },
+    "properties": {
+    "id":3,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.0613136,34.00329283 ]
+    },
+    "properties": {
+    "id":4,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.07024,33.9899148 ]
+    },
+    "properties": {
+    "id":5,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1054306,33.98977247 ]
+    },
+    "properties": {
+    "id":6,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1492043,33.99204974 ]
+    },
+    "properties": {
+    "id":7,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1617355,33.9967464 ]
+    },
+    "properties": {
+    "id":8,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2027626,34.01254236 ]
+    },
+    "properties": {
+    "id":9,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1849098,33.99162275 ]
+    },
+    "properties": {
+    "id":10,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2183838,33.99148043 ]
+    },
+    "properties": {
+    "id":11,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2338333,33.99873884 ]
+    },
+    "properties": {
+    "id":12,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2640457,33.99019946 ]
+    },
+    "properties": {
+    "id":13,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2594109,33.99148043 ]
+    },
+    "properties": {
+    "id":14,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2546043,33.993473 ]
+    },
+    "properties": {
+    "id":15,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2499695,33.99105344 ]
+    },
+    "properties": {
+    "id":16,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2561493,34.01083483 ]
+    },
+    "properties": {
+    "id":17,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2534027,34.01211548 ]
+    },
+    "properties": {
+    "id":18,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2863617,34.01197319 ]
+    },
+    "properties": {
+    "id":19,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2712555,34.0116886 ]
+    },
+    "properties": {
+    "id":20,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2909966,33.9853601 ]
+    },
+    "properties": {
+    "id":21,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2952881,33.98350968 ]
+    },
+    "properties": {
+    "id":22,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2946014,33.97995108 ]
+    },
+    "properties": {
+    "id":23,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3076477,33.98422139 ]
+    },
+    "properties": {
+    "id":24,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3538246,33.983225 ]
+    },
+    "properties": {
+    "id":25,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3435249,33.99048412 ]
+    },
+    "properties": {
+    "id":26,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3548546,34.01937214 ]
+    },
+    "properties": {
+    "id":27,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3435249,34.04241857 ]
+    },
+    "properties": {
+    "id":28,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3519363,34.07569681 ]
+    },
+    "properties": {
+    "id":29,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.352108,34.07868268 ]
+    },
+    "properties": {
+    "id":30,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.331337,34.08038885 ]
+    },
+    "properties": {
+    "id":31,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3364868,34.07939359 ]
+    },
+    "properties": {
+    "id":32,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3158875,34.07996231 ]
+    },
+    "properties": {
+    "id":33,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3028412,34.08038885 ]
+    },
+    "properties": {
+    "id":34,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2784653,34.07967795 ]
+    },
+    "properties": {
+    "id":35,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2726288,34.07967795 ]
+    },
+    "properties": {
+    "id":36,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2573509,34.07953577 ]
+    },
+    "properties": {
+    "id":37,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2554626,34.08948781 ]
+    },
+    "properties": {
+    "id":38,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2645607,34.11422067 ]
+    },
+    "properties": {
+    "id":39,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1407928,34.12232124 ]
+    },
+    "properties": {
+    "id":40,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2885933,34.05962818 ]
+    },
+    "properties": {
+    "id":41,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2455063,34.05920154 ]
+    },
+    "properties": {
+    "id":42,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1854248,34.05920154 ]
+    },
+    "properties": {
+    "id":43,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.17873,34.05962818 ]
+    },
+    "properties": {
+    "id":44,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1740952,34.05180606 ]
+    },
+    "properties": {
+    "id":45,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1754684,34.04142287 ]
+    },
+    "properties": {
+    "id":46,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1775284,34.02975803 ]
+    },
+    "properties": {
+    "id":47,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1747818,34.02378274 ]
+    },
+    "properties": {
+    "id":48,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1758118,34.01780703 ]
+    },
+    "properties": {
+    "id":49,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2909966,34.04796585 ]
+    },
+    "properties": {
+    "id":50,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2885933,34.0357329 ]
+    },
+    "properties": {
+    "id":51,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2911682,34.03743993 ]
+    },
+    "properties": {
+    "id":52,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2915115,34.02933124 ]
+    },
+    "properties": {
+    "id":53,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2904816,34.02492092 ]
+    },
+    "properties": {
+    "id":54,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2935715,34.0196567 ]
+    },
+    "properties": {
+    "id":55,
+    "Name":"kaitlyn_mcgloin",
+    "Floor":"first"
+    }
+  }
+]
+}
